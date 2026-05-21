@@ -1,0 +1,8 @@
+{
+  "Version": "1.0.9",
+  "ChangeLog": "1. 修复部分已知问题\n2. 优化更新流程\n3. 更新核心组件",
+  "PatchUrl": "https://cdn.jsdelivr.net/gh/KennethSun1",
+  "PatchPwd": "1234",
+  "FullPatchUrl": "https://cdn.jsdelivr.net/gh/KennethSun2",
+  "FullPatchPwd": "2345"
+}
